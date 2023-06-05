@@ -634,6 +634,11 @@ input, select, textarea {
 			padding: 2.5em;
 		}
 
+		.box .successmsg {
+			color: #338333;
+			visibility: hidden;
+		}
+
 		@media screen and (max-width: 736px) {
 
 			.box {

@@ -44,7 +44,7 @@
 			
 		<!-- Work -->
 			<section id="portfolio" class="main style3 primary">
-				<div id="addPagination" class="content">
+				<div id="addpagination" class="content">
 					<header>
 						<h2>Portfolio</h2>
 						<!-- <p>My work primarily consist of amigurumi dolls (Amigurumi is the Japanese art of knitting or crocheting small, stuffed yarn creatures). </p> -->
@@ -88,16 +88,18 @@
 						<h2>Wanna talk?</h2>
 					</header>
 					<div class="box">
-						<form method="post" action="#">
+						<form id="contactform" method="post">
 							<div class="fields">
 								<div class="field half"><input type="text" name="name" placeholder="Name" /></div>
 								<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
 								<div class="field"><textarea name="message" placeholder="Message" rows="6"></textarea></div>
+								<input type="text" name="_gotcha" style="display:none" />
 							</div>
 							<ul class="actions special">
-								<li><input type="submit" value="Send Email" /></li>
+								<li><input id="submitForm" type="submit" value="Send Email" /></li>
 							</ul>
 						</form>
+						<div class="successmsg" role="alert">I have received your message! Thank you! ❤️</div>
 					</div>
 				</div>
 			</section>
