@@ -88,12 +88,12 @@
 					if(i%2 === 0) {
 						styleDirection = "from-right";
 					}
-					$('#addPagination .gallery').append('<article class="' +styleDirection+ '"><a href="images/fulls/' +i+ '.jpg" class="image fit"><img src="images/thumbs/' +i+ '.jpg" title="The Anonymous Red" alt="" /></a></article>');
+					$('#addpagination .gallery').append('<article class="' +styleDirection+ '"><a href="images/fulls/' +i+ '.jpg" class="image fit"><img src="images/thumbs/' +i+ '.jpg" title="The Anonymous Red" alt="" /></a></article>');
 				}
 
-				$('#addPagination').after ('<div class="center"><div id="nav" class="pagination"></div?</div>');  
+				$('#addpagination').after ('<div class="center"><div id="nav" class="pagination"></div?</div>');  
 				var rowsShown = 6;  
-				var rowsTotal = $('#addPagination .gallery article').length;  
+				var rowsTotal = $('#addpagination .gallery article').length;  
 				var numPages = rowsTotal/rowsShown; 
 				// $('#nav').append ('<a href="#">&laquo;</a> ');
 				for (i = 0;i < numPages;i++) {  
@@ -101,8 +101,8 @@
 					$('#nav').append ('<a href="#" rel="'+i+'">'+pageNum+'</a> ');  
 				}  
 				// $('#nav').append ('<a href="#">&raquo;</a> ');
-				$('#addPagination .gallery article').hide();  
-				$('#addPagination .gallery article').slice (0, rowsShown).show();  
+				$('#addpagination .gallery article').hide();  
+				$('#addpagination .gallery article').slice (0, rowsShown).show();  
 				$('#nav a:first').addClass('active'); 
 
 				$('#nav a').bind('click', function() {  
@@ -111,7 +111,7 @@
 					var currPage = $(this).attr('rel');  
 					var startItem = currPage * rowsShown;  
 					var endItem = startItem + rowsShown;  
-					$('#addPagination .gallery article').css('opacity','0.0').hide().slice(startItem, endItem).  
+					$('#addpagination .gallery article').css('opacity','0.0').hide().slice(startItem, endItem).  
 					css('display','flex').animate({opacity:1}, 300);
 
 					$('html, body').animate({
@@ -255,5 +255,20 @@
 			.on('load', function() {
 				$window.trigger('resize');
 			});
+
+	$("#submitForm").on("click", function() {
+		var formContents = $("#contactform").serializeArray();
+		$.ajax({
+			url: "https://formspree.io/f/xbjeewar", 
+			method: "POST",
+			data: {name: formContents[0].value, email: formContents[1].value, message: formContents[2].value},
+			dataType: "json"
+		});
+		$('.successmsg').css('visibility', "visible");
+		setTimeout(function() {
+			$('.successmsg').css('visibility', "hidden");
+		}, 5000);
+		return false;
+	});
 
 })(jQuery);
