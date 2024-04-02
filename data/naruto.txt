@@ -1,0 +1,208 @@
+
+To crochet this naruto figurine you will need:
+
+Any worsted weight yarn in the necessary colors (orange, yellow, skin, dark blue and white).
+3 mm crochet hook (or according to the specifications of the yarn)
+8 mm safety eyes
+Embroidery thread in black color
+Sheet of felt in grey color
+Fiberfill
+Small piece of cardboard
+Scissors and sewing needle
+
+The finished figurine is about 23 cm (9″) tall. Please note that the size of your work depends on yarn weight and hook size.
+
+Skill level: Intermediate
+
+Abbreviations:
+MR = magic ring
+ch = chain
+st = stitch
+sc = single crochet
+hdc = half double crochet
+dc = double crochet
+tr = treble crochet
+inc = increase (2 st in one st)
+dec = decrease (2 st together)
+BLO = crochet in back loop only
+sl st = slip stitch
+(..) = repeat the instructions in brackets the given number of times
+[..] = total number of stitches
+
+Crochet in continuous rounds, unless otherwise specified. Mark the beginning of each round with a stitch marker or a yarn scrap.
+
+Arms (make 2):
+In skin colored yarn.
+R1. 6 sc in MR [6]
+R2. (inc) repeat 6 times [12]
+R3-5. sc in all 12 st [12]
+R6. (4 sc, dec) repeat 2 times [10]
+R7. sc in all 10 st [10]
+R8-23. sc in all 10 st [10]
+Stuff the arm, but not all the way through.
+Flatten the edges and crochet 5 st through both layers, closing the hole. Fasten off and cut off the yarn.
+
+Legs (make 2):
+
+In dark blue yarn.
+R1. chain 7. sc in second chain from hook. 4 sc. 3 sc in last chain. Turn. 4 sc. inc in last chain. [14]
+R2. inc in first sc. 4 sc. inc in next 3 sc. 4 sc. inc in next 2 sc. [20]
+R3. inc in first sc, 1 sc. 4 sc. (inc, 1 sc) repeat 3 times. 4 sc. (inc, 1 sc) repeat 2 times. [26]
+R4. inc in first sc, 2 sc. 4 sc. (inc, 2 sc) repeat 3 times. 4 sc. (inc, 2 sc) repeat 2 times. [32]
+R5. in BLO, sc in all 32 st.
+
+At this stage, cut out 2 pieces of cardboard the same size as the sole of the leg we created so far.
+Insert the cardboard and continue crocheting to give better shape to the feet.
+
+From the next round onwards, change from blue to skin color yarn and vise versa when mentioned in the pattern.
+R6. with blue yarn, 8 sc. Change to skin yarn, 12 sc. Change to blue yarn - 12 sc. [32]
+R7. with blue yarn, 8 sc. Change to skin yarn, (2 sc, dec) repeat 3 times. Change to blue yarn - 12 sc. [29]
+R8. with blue yarn, 8 sc. Change to skin yarn, (1 sc, dec) repeat 3 times. Change to blue yarn - 12 sc. [26]
+R9. with blue yarn, 8 sc. Change to skin yarn, (dec) repeat 3 times. Change to blue yarn - 12 sc. [23]
+
+Start stuffing the leg as we progress on it.
+From the next round onwards, we will only be using blue yarn, so skin yarn can be cut off.
+R10. 7 sc. 3 dec. 10 sc. [20]
+R11-13. sc in all 20 st. [20]
+R14. (3 sc, dec) repeat 4 times. [16]
+
+Change to skin yarn.
+R15. in BLO, sc in all 16 st. [16]
+R16. sc in all 16 st. [16]
+
+Change to orange yarn.
+R17. in BLO, sc in all 16 st. [16]
+R18. (7 sc, inc) repeat 2 times. [18]
+R19-30. sc in all 18 st. [18]
+Fasten off and hide the end. When finishing the second leg, don't fasten off. Continue working on the body.
+Add more stuffing.
+
+For the fold in the shoes and pants:
+Attach a blue yarn to the FL in R15.
+R1. sc in all 16 st. [16]
+R2. (7 sc, inc) repeat 2 times [18]
+
+Attach an orange yarn to the FL in R17.
+R1. sc in all 16 st. [16]
+R2. (7 sc, inc) repeat 2 times [18]
+
+Body:
+In orange yarn.
+Begin crocheting the body from the middle point of the inner thigh of the 2nd leg. Crochet additional stitches till this point or undo some, if needed.
+Make 4 ch and join the first leg with sl st.
+R1. 18 sc on first leg, 4 sc in the connecting chain, 18 sc on second leg, 4 sc in the chain again. [44]
+10 sc on first leg again, or number of sc required so that it's on the side of the body. Place a stitch marker. 
+R2. 7 sc, inc, 4 sc, inc, 7 sc, inc, 22 sc, inc [48]
+R3-6. sc in all 48 st [48]
+R7. dec, 21 sc, dec, 23 sc [46]
+R8-9. sc in all 46 st [46]
+Change to skin colored yarn.
+R10. in BLO, sc in all 46 st [46]
+R11. sc in all 46 st [46]
+R12. (21 sc, dec) repeat 2 times [44]
+R13-14. sc in all 44 st [44]
+R15. (dec, 20 sc) repeat 2 times [42]
+R16. sc in all 42 st [42]
+R17. (dec, 5 sc) repeat 6 times [36]
+R18-19. sc in all 36 st [36]
+R20. (10 sc, dec) repeat 3 times [33]
+R21-22. sc in all 33 st [33]
+Stuff with fiberfill.
+R23. (9 sc, dec) repeat 3 times [30]
+R24. 25 sc (don't finish this round to relocate the stitch marker) [30]
+The marker goes along the middle of the back.
+Attach arms while working on the next round.
+R25. 5 sc, place the arm and body together and 5 sc through both, 10 sc on the body only, place the other arm and the body together and 5 sc through both, 5 sc on the body only[30]
+Shape the body when stuffing.
+R26. (3 sc, dec) repeat 6 times [24]
+Add more stuffing.
+R27. (dec) repeat 12 times [12]
+R28-30. sc in all 12 st [12]
+Stuff the neck.
+
+Head:
+Continue with skin colored yarn.
+R1. (inc) repeat 12 times [24]
+R2. (sc, inc) repeat 12 times [36]
+R3. (5 sc, inc) repeat 6 times [42]
+R4. sc in all 42 st [42]
+R5. (6 sc, inc) repeat 6 times [48]
+R6. sc in all 48 st [48]
+R7. (7 sc, inc) repeat 6 times [54]
+R8. sc in all 54 st [54]
+R9-16. sc in all 58 st [58]
+
+Work on the face:
+
+Insert safety eyes between R13 and R14 with 8 stitches in between them.
+Embroider nose with several stitches between R11 and R12.
+Embroider eyebrows with yellow yarn.
+The whisker marks on naruto's face can be added with black embroidery thread after the face is stuffed and completed.
+
+We will keep stuffing as we go.
+R21. 7 sc, dec, 10 sc, dec, 15 sc, dec, 10 sc, dec, 8 sc [54]
+R22. (7 sc, dec) repeat 6 times [48]
+R23. (3 sc, dec, 3 sc) repeat 6 times [42]
+R24. (5 sc, dec) repeat 6 times [36]
+R25. (2 sc, dec, 2 sc) repeat 6 times [30]
+R26. (3 sc, dec) repeat 6 times [24]
+R27. (sc, dec, sc) repeat 6 times [18]
+R28. (sc, dec) repeat 6 times [12]
+R29. (dec) repeat 6 times [6]
+Fasten off leaving a small tail. Pass the yarn end through the front loops of the rest 6 stitches with your sewing needle and pull to close the hole. Weave in the end.
+
+Hair:
+In yellow yarn.
+Make a starting loop and insert it in on the left side of the face, 2 st away from the eyebrow.
+To make a hair triangle - chain 6. Start from the 2nd chain from the hook. 1 sl st, 1 sc, 1 hdc, 1 dc, 1 tr. Skip 3 st and sl st into the next chain of the face.
+Repeat this step to make the hair cover all the top portion of naruto's head.
+Do the same step on the backside of the head while reducing one hair triangle on each row.
+
+Jacket:
+In white yarn.
+R1. chain 15. sc in second chain from hook. 13 sc. [14]
+R2-3. chain 1 and turn over. sc in all 14 st. [14]
+Change to dark blue yarn.
+R4. chain 1 and turn over. 1 sc, (inc)*12, 1 sc [26]
+R5. chain 1 and turn over. 1 sc, (3 sc, inc)*6, 1 sc [32]
+R6. chain 1 and turn over. 1 sc, (4 sc, inc)*6, 1 sc [38]
+R7. chain 1 and turn over. 1 sc, (5 sc, inc)*6, 1 sc [44]
+R8. chain 1 and turn over. 5 sc, chain 10 and skip 10 st (to make the arm hole), 14 sc, chain 10 and skip 10 st, 5 sc [24 sc, 20 ch]
+Change to orange yarn.
+R9. chain 1 and turn over. 5 sc, 10 sc in the 10 ch space, 14 sc, 10 sc in the 10 ch space, 5 sc. [44]
+R10. chain 1 and turn over. sc in all 44 st. [44]
+R11. chain 1 and turn over. 1 sc, (6 sc, inc)*6, 1 sc [50]
+R12-13. chain 1 and turn over. sc in all 50 st. [50]
+R14. chain 1 and turn over. 1 sc, (7 sc, inc)*6, 1 sc [56]
+R15-20. chain 1 and turn over. sc in all 56 st. [56]
+Make orange borders on both edges of the jacket with sc.
+Attach dark blue yarn as the next row.
+R21. chain 1. 1 sc, (7 sc, dec)*6, 1 sc. [50]
+R22-23. chain 1 and turn over. sc in all 50 st. [50]
+Attach orange yarn to an armhole and sc on every st around. [22] Continue this step for 14 times or until the desired length.
+
+Wear the jacket on the body and close it by stitching together with a white yarn.
+
+Forehead Protector:
+In dark blue yarn.
+R1. chain 65. Wrap the chain around the head between the partition of hair to ensure it is the correct size. sc in the second chain from the hook. 63 sc. [64]
+R2-4. sc in all 64 st. [64]
+Sew the edges together after wrapping this around the head.
+Cut an oval out of the grey felt sheet and embroider the symbol on it. This should be sewn on to the above band.
+
+Kunai Holster (The pounch on the leg):
+In white yarn.
+R1. chain 21. Wrap the chain around the right leg to ensure it is the correct size.  sc in the second chain from the hook. 19 sc. [20]
+R2. sc in all 20 st. [20]
+Change to black yarn.
+R3. sc in all 20 st. [20]
+Change to white yarn.
+R4-5. sc in all 20 st. [20]
+Sew the edges together after wrapping this around the leg. Sew it to the leg as well to secure the position.
+
+In black yarn.
+R1. chain 5. sc in the second chain from the hook. 2 sc. 3 sc in the last chain. 2 sc on the other side of the chain. inc. [10]
+R2. BLO, 10 sc. [10]
+R3-R8. sc in all 10 st. [10]
+To make the flap,
+R9. ch 1 and turn over. 4 sc. [4] 
