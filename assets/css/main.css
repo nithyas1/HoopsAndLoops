@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
+@font-face {
+	font-family: "TitleFont";
+	src: url(DorothySpring-rvgVx.ttf) format("truetype");
+}
+
 /*
 	Big Picture by HTML5 UP
 	html5up.net | @ajlkn
@@ -622,8 +627,9 @@ input, select, textarea {
 
 	.box {
 		background: #ffffff;
-		color: #39454b;
+		color: #38334b;
 		padding: 2em;
+		border-radius: 1em;
 	}
 
 		.box > :last-child {
@@ -634,9 +640,17 @@ input, select, textarea {
 			padding: 2.5em;
 		}
 
+		.box.patternbox {
+			padding: 1em;
+		}
+
 		.box .successmsg {
 			color: #338333;
 			visibility: hidden;
+		}
+
+		.box.bgtext {
+			background-color: rgba(254, 253, 253, 0.4);
 		}
 
 		@media screen and (max-width: 736px) {
@@ -648,6 +662,9 @@ input, select, textarea {
 				.box.style2 {
 					padding: 1.5em 1.25em 1.5em 1.25em;
 					background-color: rgba(255, 255, 255, 0.9);
+				}
+				.box.bgtext {
+					background-color: rgba(254, 253, 253, 0.4);
 				}
 
 		}
@@ -1964,20 +1981,31 @@ input, select, textarea {
 		}
 
 			.main.style1 h2 {
-				font-size: 2.5em;
+				font-family: TitleFont;
+				font-size: 3em;
+				font-weight: 900;
 				line-height: 1em;
-				color: #ff3385;
-				text-shadow: 2px 2px 2px #000000;
+				color: #ffffff;
+				margin-bottom: 1em;
+				/* text-shadow: 1px 1px #38334b; */
 			}
 
 			.main.style1 p {
+				font-size: 1.2em;
 				font-weight: 900;
-				color: #e5cddc;
-				text-shadow: 2px 2px 2px #000000;
+				color: #4a4463;
+				/* text-shadow: 1px 1px #38334b	; */
 			}
 
 			.main.style1 p a {
-				color: #eca9d2;
+				/* font-family: cursive; */
+				color: #ffffff;
+				text-decoration: none;
+				text-shadow: 1px 1px #38334b;
+			}
+
+			.main.style1 p a:hover {
+				font-size: 1.2em;
 			}
 
 			.main.style1 > .content {
@@ -2056,6 +2084,12 @@ input, select, textarea {
 			text-align: center;
 			padding: 6em 0 6em 0;
 		}
+			.main.style3 p {
+				font-size: 1.2em;
+				font-weight: 900;
+				color: #4a4463;
+				/* text-shadow: 1px 1px #38334b; */
+			}
 
 			.main.style3 .content > header {
 				margin-bottom: 2em;
@@ -2079,7 +2113,7 @@ input, select, textarea {
 			.main.style3 .pagination a {
 				color: black;
 				float: left;
-				padding: 1em 1.2em;
+				padding: 1em 1.3em;
 				text-decoration: none;
 				transition: background-color .3s;
 				border: 1px solid #ddd;
@@ -2088,10 +2122,14 @@ input, select, textarea {
 				line-height: 1em;
 			}
 
+			.main.style3 .pagination a.doubledigit {
+				padding: 1em 1em;				
+			}
+
 			.main.style3 .pagination a.active {
-				background-color: #0a012a;
+				background-color: #38334b;
 				color: white;
-				border: 1px solid #0a012a;
+				border: 1px solid #38334b;
 			}
 
 			.main.style3 .pagination a:hover:not(.active) {
@@ -2121,6 +2159,45 @@ input, select, textarea {
 				.main.dark .button.style2.down {
 					background-image: url("images/dark-arrow.svg");
 				}
+		.main .separator {
+			height: 2em;
+		}
+
+		.main .patternbox {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-between;
+		}
+		
+			.main .patternbox .img {
+				display: flex;
+				justify-content: center;
+			}
+
+			.main .patternbox .desc {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				color: #38334b;
+				margin-left: 2em;
+			}
+
+			.main .patternbox .enter {
+				display: flex;
+				justify-content: end;
+			}
+
+			.main .patternbox .arrow {
+				width: 1.5em;
+			}
+
+			.main .patternbox .patternimage {
+				position: relative;
+				display: inline-block;
+				width: 4em;
+				object-fit: contain;
+				border-radius: 1em;
+			}
 
 		body.is-touch .main {
 			background-attachment: scroll !important;
@@ -2292,7 +2369,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("../../images/two.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2312,6 +2389,15 @@ input, select, textarea {
 
 	#aboutme {
 		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+/* Three */
+
+	#patterns {
+		background: url("images/overlay.png"), url("../../images/one.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
